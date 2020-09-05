@@ -1,0 +1,14 @@
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\bin\Debug\Coffe_Shop.exe.config
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\bin\Debug\Coffe_Shop.exe
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\bin\Debug\Coffe_Shop.pdb
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Form1.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Form2.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Properties.Resources.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.csproj.GenerateResource.cache
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.csproj.CoreCompileInputs.cache
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.exe
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.pdb
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Form3.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Form4.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.Form5.resources
+D:\C_sharp(WinForms)\Coffe_Shop\Coffe_Shop\obj\Debug\Coffe_Shop.csprojAssemblyReference.cache
